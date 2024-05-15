@@ -1,5 +1,5 @@
-missao pratica - nivel 3
- Meu primeiro framework  Criação de front-end web com base em React JS ou Next JS, com utilização de bases de teste JSON, em memória, para ambas as plataformas.
+                                 missao pratica - nivel 3
+Meu primeiro framework  Criação de front-end web com base em React JS ou Next JS, com utilização de bases de teste JSON, em memória, para ambas as plataformas.
 bjetivos da prática
 
 A partir dos objetivos listados abaixo, no final do projeto, você terá criado duas versões de um front-end web, com base nas React JS e Next JS, tornando-se capacitado para lidar com contextos reais de aplicação das tecnologias abordadas:
@@ -99,7 +99,8 @@ l) Utilizar o método map , de livros , para a geração das linhas de dados com
 Altere o arquivo App.tsx , retornando em App o componente LivroLista ;
 
 Verifique os resultados obtidos através de um navegador, lembrando de testar a funcionalidade da exclusão do livro.
-          👉 2º Procedimento | Página de Cadastro e Navegação no React JS
+        
+           👉 2º Procedimento | Página de Cadastro e Navegação no React JS
 
 Ajuste das rotas de navegação do sistema livros-react:
 a) Adicione o pacote de navegação com npm instal react-router-dom
